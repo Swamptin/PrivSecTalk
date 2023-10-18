@@ -6,8 +6,8 @@ Why you should care?
 What information is in a photo anyway? 
 + biological information, which is what the image captures 
 + metadata in the forms of
-+ GPS location 
-+ device type 
+++ GPS location 
+++ device type 
 
 Face swapping/image manipulation
 + Instagram fun becomes training data 
