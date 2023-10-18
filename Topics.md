@@ -9,7 +9,7 @@ Browser configs
 ![[Privacy talk/Applications and safety]]
 Malware
 
-Scammers - romance, sextortion, banking, lost ohone
+![[Scammers]] 
 
 Messaging safety/encryption 
 
