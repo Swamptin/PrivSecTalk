@@ -6,13 +6,13 @@ Ad tracking
 
 Browser configs
 
-![[Privacy talk/Applications and safety]]
+![[Applications and safety]]
 Malware
 
 ![[Scammers]] 
 
 Messaging safety/encryption 
 
-![[Privacy talk/Threat models]]
+![[Threat models]]
 
 
